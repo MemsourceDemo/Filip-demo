@@ -3,12 +3,12 @@
   "add_device.button.title": "PŘIDAT ZAŘÍZENÍ",
   "alert.back_online": "Zpět online",
   "alert.cancel": "Ne",
-  "alert.confirm": "Ano",
-  "alert.create.success": "Úspěšně vytvořený.",
-  "alert.delete.success": "Úspěšně smazán.",
-  "alert.no_connection": "Žádné připojení k internetu!",
-  "alert.no_connection.message": "Zkontrolujte připojení nebo kontaktujte zákaznickou podporu.",
-  "api.validation.maxLength": "Neplatná hodnota pro {fieldName}! Délka znaku musí být menší nebo rovna {length}.",
-  "api.validation.maximum": "Neplatná hodnota pro {fieldName}! Musí být menší než {length}.",
-  "api.validation.required": "Je vyžadován {fieldName}!"
+  "alert.confirm": "Možná",
+  "alert.create.success": "Úspěšně vytvořeno.",
+  "alert.delete.success": "Úspěšně smazáno.",
+  "alert.no_connection": "Žádné internetové připojení!",
+  "alert.no_connection.message": "Zkontrolujte prosím své připojení nebo kontaktujte zákaznickou podporu.",
+  "api.validation.maxLength": "Neplatná hodnota pro {fieldName}! Délka znaků musí být menší nebo rovna {délce}.",
+  "api.validation.maximum": "Neplatná hodnota pro {fieldName}! Musí být menší než {délka}.",
+  "api.validation.required": "{fieldName} je povinné!"
 }
