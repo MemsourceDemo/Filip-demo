@@ -1,0 +1,14 @@
+{
+  "add": "",
+  "add_device.button.title": "",
+  "alert.back_online": "",
+  "alert.cancel": "",
+  "alert.confirm": "",
+  "alert.create.success": "",
+  "alert.delete.success": "",
+  "alert.no_connection": "",
+  "alert.no_connection.message": "",
+  "api.validation.maxLength": " ",
+  "api.validation.maximum": " ",
+  "api.validation.required": ""
+}
