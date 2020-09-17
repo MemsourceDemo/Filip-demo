@@ -1,9 +1,9 @@
 {
   "add": "Add",
   "add_device.button.title": "ADD DEVICE",
-  "alert.back_online": "Back offline",
+  "alert.back_online": "Back online",
   "alert.cancel": "No",
-  "alert.confirm": "Yes",
+  "alert.confirm": "Perhaps",
   "alert.create.success": "Succesfully created.",
   "alert.delete.success": "Succesfully deleted.",
   "alert.no_connection": "No Internet connection!",
