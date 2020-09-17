@@ -1,0 +1,12 @@
+"add": "Add",
+  "add_device.button.title": "ADD DEVICE",
+  "alert.back_online": "Back online",
+  "alert.cancel": "No",
+  "alert.confirm": "Yes",
+  "alert.create.success": "Succesfully created.",
+  "alert.delete.success": "Succesfully deleted.",
+  "alert.no_connection": "No Internet connection!",
+  "alert.no_connection.message": "Please check your connectivity or contact customer support.",
+  "api.validation.maxLength": "Invalid value for {fieldName}! The character length must be smaller than or equal to {length}.",
+  "api.validation.maximum": "Invalid value for {fieldName}! It must be smaller than {length}.",
+  "api.validation.required": "{fieldName} is required!"
