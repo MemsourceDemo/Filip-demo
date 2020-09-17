@@ -1,14 +1,14 @@
 {
   "add": "Añadir",
-  "add_device.button.title": "AÑADIR DISPOSITIVO",
-  "alert.back_online": "De nuevo en línea",
+  "add_device.button.title": "AGREGAR DISPOSITIVO",
+  "alert.back_online": "Volver en línea",
   "alert.cancel": "No",
-  "alert.confirm": "si",
+  "alert.confirm": "Quizás",
   "alert.create.success": "Creado con éxito.",
   "alert.delete.success": "Eliminado con éxito.",
-  "alert.no_connection": "¡Sin conexión a Internet!",
+  "alert.no_connection": "¡No hay conexión a Internet!",
   "alert.no_connection.message": "Compruebe su conectividad o póngase en contacto con el servicio de atención al cliente.",
-  "api.validation.maxLength": "¡Valor no válido para {fieldName}! La longitud de los caracteres debe ser menor o igual a {longitud}.",
-  "api.validation.maximum": "¡Valor no válido para {fieldName}! Debe ser menor que {longitud}.",
-  "api.validation.required": "¡{fieldName} es obligatorio!"
+  "api.validation.maxLength": "Valor no válido para {fieldName}. La longitud del carácter debe ser menor o igual que {length}.",
+  "api.validation.maximum": "Valor no válido para {fieldName}. Debe ser menor que {length}.",
+  "api.validation.required": "{fieldName} es obligatorio."
 }
