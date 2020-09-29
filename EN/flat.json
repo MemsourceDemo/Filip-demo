@@ -1,11 +1,9 @@
 {
-  "add": "Add",
   "add_device.button.title": "ADD DEVICE",
-  "alert.back_online": "Back online",
+  "alert.back_online": "Will be back offline",
   "alert.cancel": "No",
-  "alert.confirm": "Perhaps",
   "alert.confirm": "Face mask",
-  "alert.confirm": "Beer",
+  "alert.confirm": "Apple",
   "alert.create.success": "Succesfully opened.",
   "alert.delete.success": "Succesfully deleted.",
   "alert.no_connection": "No Internet connection!",
