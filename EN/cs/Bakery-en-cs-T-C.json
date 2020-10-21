@@ -1,0 +1,14 @@
+{
+  "add_device.button.title": "PŘIDAT ZAŘÍZENÍ",
+  "alert.back_online": "Vrátí se do režimu offline",
+  "alert.cancel": "Ne",
+  "alert.confirm": "Sociální distancování",
+  "alert.confirm": "oranžový",
+  "alert.create.success": "Úspěšně se otevřel.",
+  "alert.delete.success": "Úspěšně smazáno.",
+  "alert.no_connection": "Žádné připojení k internetu!",
+  "alert.no_connection.message": "Zkontrolujte připojení nebo kontaktujte zákaznickou podporu.",
+  "api.validation.maxLength": "Neplatná hodnota pro {fieldName}! Délka znaku musí být menší nebo rovna {length}.",
+  "api.validation.maximum": "Neplatná hodnota pro {fieldName}! Musí být menší než {length}.",
+  "api.validation.required": "{fieldName} je povinný!"
+}
